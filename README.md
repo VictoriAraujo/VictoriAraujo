@@ -1,16 +1,23 @@
-### Hi there 👋
+### Victória Araújo
 
-<!--
-**VictoriAraujo/VictoriAraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🃏 Pronouns: ela/dela
+- 🌎 From: Brazil 🇧🇷
+- 💻 Experiência com | Some experience with: Python and Java
+- 🌎 Linguas | Languages: Portuguese 🇧🇷, French 🇫🇷, English 🇬🇧
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left" style="display: inline_block">
+  <a href="https://github.com/victoriaraujo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victoriaraujo&count_private=true&show_icons=true&theme=tokyonight&hide_border=true">
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriaraujo&count_private=true&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="90vw"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="90vw" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="90vw"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="90vw"/>
+          
+</p>
+
