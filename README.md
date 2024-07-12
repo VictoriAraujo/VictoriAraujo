@@ -1,9 +1,8 @@
 ### Victória Araújo
 
-- 🃏 Pronouns: ela/dela
-- 🌎 From: Brazil 🇧🇷
-- 💻 Experiência com | Some experience with: Python and Java
-- 🌎 Linguas | Languages: Portuguese 🇧🇷, French 🇫🇷, English 🇬🇧
+- 🌎 From: Brazil
+- 💻 Experience with: Python and Java
+- 🌎 Languages: Portuguese 🇧🇷, French 🇫🇷, English 🇬🇧
 
 
 <div align="left" style="display: inline_block">
